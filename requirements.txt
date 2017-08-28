@@ -1,0 +1,8 @@
+keras
+tensorflow
+seaborn
+sklearn
+pandas
+pandas_datareader
+h5py
+quandl
